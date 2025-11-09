@@ -959,7 +959,7 @@ Your command will automatically appear in the `help` command output because it's
 4. Test help flag: `yourcommand -h`
 
 ---
-
+git sta
 ## 🐛 Troubleshooting
 
 ### Command Not Found
