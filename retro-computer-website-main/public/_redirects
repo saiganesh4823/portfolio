@@ -1,10 +1,9 @@
-https://edwardh.io   https://edh.dev 301!
-https://edwardh.io/*   https://edh.dev 301!
-https://www.edwardh.io   https://edh.dev 301!
-https://www.edwardh.io/*   https://edh.dev 301!
+# Single Page Application (SPA) redirect rule
+# This ensures all routes work correctly with client-side routing
+/*    /index.html   200
 
-https://edwardhinrichsen.com   https://edh.dev 301!
-https://edwardhinrichsen.com/*   https://edh.dev 301!
-https://www.edwardhinrichsen.com   https://edh.dev 301!
-https://www.edwardhinrichsen.com/*   https://edh.dev 301!
+# Add your custom domain redirects here if needed
+# Example:
+# https://old-domain.com   https://your-new-domain.netlify.app 301!
+# https://old-domain.com/*   https://your-new-domain.netlify.app/* 301!
 
